@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "OneWeekGameJam",
+"productVersion": "0.1",
+"dataUrl": "BeyondCatGame.data.unityweb",
+"wasmCodeUrl": "BeyondCatGame.wasm.code.unityweb",
+"wasmFrameworkUrl": "BeyondCatGame.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.15f1"
+}
